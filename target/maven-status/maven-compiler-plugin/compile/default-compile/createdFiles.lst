@@ -1,0 +1,4 @@
+com\webber\MessageDecoder.class
+com\webber\MessageEndpoint.class
+com\webber\MessageEncoder.class
+com\webber\Message.class
